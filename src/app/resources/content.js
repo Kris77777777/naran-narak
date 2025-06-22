@@ -54,7 +54,7 @@ const home = {
   featured: {
     display: true,
     title: <>Recent project: <strong className="ml-4">DamDoh</strong></>,
-    href: "/work/PNNPLUS_project",
+    href: "/work/damdoh",
   },
   subline: (
     <>
